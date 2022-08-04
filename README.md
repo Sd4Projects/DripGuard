@@ -1,5 +1,5 @@
 # DripGuard
-DripGuard for Saturn 3D resin printer
+DripGuard for Saturn 3D resin printer.
 
 Released under CERN Open Hardware License, CERN OHL v.1.2. Please see the CERN OHL v.1.2 for applicable conditions. (http://ohwr.org/cernohl).
 
